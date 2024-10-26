@@ -1,6 +1,5 @@
 <h1>Hi there 👋</h1>
-<strong>I'm beginner in web programming want to focus backend developer 🤲</strong>
-<br/>
+<h3>I'm beginner in web programming 🤲</h3>
 <br/>
 <div align="center">
   <a href="https://github.com/amelia-iky/">
