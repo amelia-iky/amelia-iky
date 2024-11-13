@@ -1,6 +1,7 @@
 <h1>Hi there 👋</h1>
 <h3>I'm beginner in web programming 🙌</h3>
-<br/>
+  💻 I’m currently working on <a href="https://github.com/amelia-iky/vinolia-cell-backend">Vinolia-Cell</a><br/>
+  🔎 I’m currently learning <strong>Lumen Framework</strong><br/>
 <div align="center">
   <a href="https://github.com/amelia-iky/">
     <img height="165" src="https://github-readme-stats-eight-theta.vercel.app/api?username=amelia-iky&show_icons=true&theme=algolia&include_all_commits=true&count_private=true"/>
